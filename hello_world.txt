@@ -1,0 +1,5 @@
+Hi my name is Justin
+
+It is the 9th of January 2023 and this is my first experience using Git and GitHub. 
+
+I'm so confused.
