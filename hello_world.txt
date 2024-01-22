@@ -3,3 +3,7 @@ Hi my name is Justin
 It is the 9th of January 2023 and this is my first experience using Git and GitHub. 
 
 I'm so confused.
+
+
+I stopped trying to learn to code shortly after this. However it is now 22/01/2024 and I'm determined to get through The Odin Project.
+I'm still confused
